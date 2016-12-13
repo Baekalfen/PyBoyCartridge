@@ -15,3 +15,8 @@ The cartridge-dumper seems to be working flawlessly for MBC 1,2 and 3. I haven't
 
 Emulating cartridges still needs work - see the [report](https://github.com/Baekalfen/PyBoyCartridge/raw/master/Report.pdf). The short explanation is, that I couldn't get the code to trigger on the interrupt-pin. But the code is ready-to-go, if somebody gets it to be triggered at the right time. Because of the very slim reaction time, I wrote a few lines of AVR-assembler, but it's fairly straight forward. You possibly could get the same optimization in C, but I didn't want the uncertainty.
 
+License
+=======
+Creative Commons BY-NC-SA 4.0
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+
